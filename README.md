@@ -1,3 +1,3 @@
 # klug-proj1
 Klugius first Project
-Traininhg
+Training
